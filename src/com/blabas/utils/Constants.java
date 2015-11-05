@@ -9,4 +9,6 @@ public class Constants {
     public static int THREAD_NUMBER = 5;
 
     public static int SLEEP_TIME = 5000;
+
+    public static int JOBS_NUMBER = 10;
 }
